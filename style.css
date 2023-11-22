@@ -1,0 +1,22 @@
+.ras{
+    text-align: center;
+    color: aquamarine;
+    font-size: 200px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+body{
+    background-image:url("delivery.jpg")
+}
+li{
+    color:blue
+}
+#navigator{
+    text-decoration: underline;
+    color: blue;
+}
+#navigator:hover{
+    
+}
+
