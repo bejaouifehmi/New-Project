@@ -1,0 +1,56 @@
+.ras{
+    text-align: center;
+    color: aquamarine;
+    font-size: 200px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+body{
+    background-image:url("delivery.jpg");
+}
+.navigator{
+    text-decoration: none;
+    color: blue;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+li:hover {
+    color:brown
+    
+}
+ul{
+    font-size: 200%;
+
+}
+.btn :hover{
+    color: black;
+    
+}
+
+
+#sp{
+    color: aliceblue;
+    font-size: larger;
+}
+table{
+    border:solid rgba(0, 0, 0, 0.456) 20px ;
+    border-collapse:collapse ;
+    position: relative;
+}
+th,td{
+    border: solid black;
+   text-align: center;
+
+}
+
+footer{
+    font-weight: bold;
+    background-color: blue;
+}
+.aside{
+    display: grid;
+}
+
+
