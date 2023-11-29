@@ -7,16 +7,50 @@
     font-style: italic;
 }
 body{
-    background-image:url("delivery.jpg")
+    background-image:url("delivery.jpg");
 }
-li{
-    color:blue
-}
-#navigator{
-    text-decoration: underline;
+.navigator{
+    text-decoration: none;
     color: blue;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
 }
-#navigator:hover{
+li:hover {
+    color:brown
     
 }
+ul{
+    font-size: 200%;
+
+}
+.btn :hover{
+    color: black;
+    
+}
+
+
+#sp{
+    color: aliceblue;
+    font-size: larger;
+}
+table{
+    border:solid rgba(0, 0, 0, 0.456) 20px ;
+    border-collapse:collapse ;
+    position: relative;
+}
+th,td{
+    border: solid black;
+   text-align: center;
+
+}
+
+footer{
+    font-weight: bold;
+    background-color: blue;
+}
+.aside{
+    display: grid;
+}
+
 
